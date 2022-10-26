@@ -9,3 +9,11 @@ much every commercial bank does so nowadays. In this project, you will build an 
 learning techniques, just like the real banks do.
 
 The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository.
+
+
+### Skills 
+
+`Data Manipulation` 
+`Machine Learning` 
+`Importing & Cleaning Data`
+`Applied Finance`
