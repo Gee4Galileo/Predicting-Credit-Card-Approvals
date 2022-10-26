@@ -1,4 +1,4 @@
-# predicting-credit-card-approvals
+# Predicting Credit Card Approvals
 
 ## Project Description
 
